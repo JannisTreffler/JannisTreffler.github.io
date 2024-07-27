@@ -3,30 +3,12 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2024-07-27T15:35:39+02:00</updated>
+    <updated>2024-07-27T15:55:03+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
     <id>https://jannis.treffler.cloud</id>
 
-    <entry>
-        <title>Nebula</title>
-        <author>
-            <name>Jannis Treffler</name>
-        </author>
-        <link href="https://jannis.treffler.cloud/nebula/"/>
-        <id>https://jannis.treffler.cloud/nebula/</id>
-        <media:content url="https://jannis.treffler.cloud/media/posts/25/C4-2.0.png" medium="image" />
-
-        <updated>2024-07-27T15:35:39+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://jannis.treffler.cloud/media/posts/25/C4-2.0.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/25/C5.png" alt="" width="3840" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/25/responsive/C5-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/25/responsive/C5-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/25/responsive/C5-md.webp 768w"></figure>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Exoplanet</title>
         <author>
@@ -42,6 +24,24 @@
             <![CDATA[
                     <p><img src="https://jannis.treffler.cloud/media/posts/24/C1.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/24/C2.png" alt="" width="1920" height="1080" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/24/responsive/C2-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/24/responsive/C2-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/24/responsive/C2-md.webp 768w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Nebula</title>
+        <author>
+            <name>Jannis Treffler</name>
+        </author>
+        <link href="https://jannis.treffler.cloud/nebula/"/>
+        <id>https://jannis.treffler.cloud/nebula/</id>
+        <media:content url="https://jannis.treffler.cloud/media/posts/25/C4-2.0.png" medium="image" />
+
+        <updated>2024-07-23T15:35:00+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jannis.treffler.cloud/media/posts/25/C4-2.0.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/25/C5.png" alt="" width="3840" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/25/responsive/C5-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/25/responsive/C5-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/25/responsive/C5-md.webp 768w"></figure>
             ]]>
         </content>
     </entry>
