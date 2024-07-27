@@ -3,7 +3,7 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2024-07-27T16:27:15+02:00</updated>
+    <updated>2024-07-27T16:43:59+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
@@ -23,9 +23,13 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://jannis.treffler.cloud/media/posts/23/F3W.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/23/F1E.png" alt="" width="1080" height="1350" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/23/responsive/F1E-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/23/responsive/F1E-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/23/responsive/F1E-md.webp 768w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/23/F2E.png" alt="" width="1080" height="1350" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/23/responsive/F2E-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/23/responsive/F2E-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/23/responsive/F2E-md.webp 768w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/23/F3E.png" alt="" width="1080" height="1350" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/23/responsive/F3E-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/23/responsive/F3E-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/23/responsive/F3E-md.webp 768w"></figure>
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/23/gallery/F1E.png" data-size="1080x1350"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/23/gallery/F1E-thumbnail.webp" alt="" width="768" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/23/gallery/F2E.png" data-size="1080x1350"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/23/gallery/F2E-thumbnail.webp" alt="" width="768" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/23/gallery/F3E.png" data-size="1080x1350"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/23/gallery/F3E-thumbnail.webp" alt="" width="768" height="960"></a></figure>
+</div></div>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
