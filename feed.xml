@@ -3,7 +3,7 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2024-07-27T16:12:59+02:00</updated>
+    <updated>2024-07-27T16:23:01+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
@@ -41,6 +41,42 @@
         <updated>2024-05-31T16:16:19+02:00</updated>
             <summary></summary>
         <content></content>
+    </entry>
+    <entry>
+        <title>Nebula</title>
+        <author>
+            <name>Jannis Treffler</name>
+        </author>
+        <link href="https://jannis.treffler.cloud/nebula/"/>
+        <id>https://jannis.treffler.cloud/nebula/</id>
+        <media:content url="https://jannis.treffler.cloud/media/posts/25/C4-2.0.png" medium="image" />
+
+        <updated>2023-10-23T15:35:00+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jannis.treffler.cloud/media/posts/25/C4-2.0.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/25/C5.png" alt="" width="3840" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/25/responsive/C5-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/25/responsive/C5-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/25/responsive/C5-md.webp 768w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Exoplanet 1</title>
+        <author>
+            <name>Jannis Treffler</name>
+        </author>
+        <link href="https://jannis.treffler.cloud/exoplanet/"/>
+        <id>https://jannis.treffler.cloud/exoplanet/</id>
+        <media:content url="https://jannis.treffler.cloud/media/posts/24/C1.png" medium="image" />
+
+        <updated>2023-10-16T15:34:00+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jannis.treffler.cloud/media/posts/24/C1.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/24/C2.png" alt="" width="1920" height="1080" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/24/responsive/C2-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/24/responsive/C2-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/24/responsive/C2-md.webp 768w"></figure>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Wallet</title>
@@ -122,42 +158,6 @@
             <![CDATA[
                     <p><img src="https://jannis.treffler.cloud/media/posts/21/Final-space-station-film.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img  src="https://jannis.treffler.cloud/media/posts/21/Final-space-station-film-2-5.png" alt="" width="4096" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-md.webp 768w"></figure><figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/21/Final-space-station-3-film-1.png" alt="" width="4096" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-md.webp 768w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Nebula</title>
-        <author>
-            <name>Jannis Treffler</name>
-        </author>
-        <link href="https://jannis.treffler.cloud/nebula/"/>
-        <id>https://jannis.treffler.cloud/nebula/</id>
-        <media:content url="https://jannis.treffler.cloud/media/posts/25/C4-2.0.png" medium="image" />
-
-        <updated>2023-07-23T15:35:00+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://jannis.treffler.cloud/media/posts/25/C4-2.0.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/25/C5.png" alt="" width="3840" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/25/responsive/C5-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/25/responsive/C5-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/25/responsive/C5-md.webp 768w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Exoplanet 1</title>
-        <author>
-            <name>Jannis Treffler</name>
-        </author>
-        <link href="https://jannis.treffler.cloud/exoplanet/"/>
-        <id>https://jannis.treffler.cloud/exoplanet/</id>
-        <media:content url="https://jannis.treffler.cloud/media/posts/24/C1.png" medium="image" />
-
-        <updated>2023-07-16T15:34:00+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://jannis.treffler.cloud/media/posts/24/C1.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/24/C2.png" alt="" width="1920" height="1080" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/24/responsive/C2-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/24/responsive/C2-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/24/responsive/C2-md.webp 768w"></figure>
             ]]>
         </content>
     </entry>
