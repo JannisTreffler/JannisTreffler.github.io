@@ -3,7 +3,7 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2024-07-27T16:23:01+02:00</updated>
+    <updated>2024-07-27T16:27:15+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
@@ -79,6 +79,25 @@
         </content>
     </entry>
     <entry>
+        <title>T-shert</title>
+        <author>
+            <name>Jannis Treffler</name>
+        </author>
+        <link href="https://jannis.treffler.cloud/t-shert/"/>
+        <id>https://jannis.treffler.cloud/t-shert/</id>
+        <media:content url="https://jannis.treffler.cloud/media/posts/29/C3.png" medium="image" />
+
+        <updated>2023-10-04T16:25:00+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jannis.treffler.cloud/media/posts/29/C3.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/29/C1.png" alt="" width="2160" height="4096" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/29/responsive/C1-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/29/responsive/C1-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/29/responsive/C1-md.webp 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/29/C2.png" alt="" width="2160" height="4096" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/29/responsive/C2-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/29/responsive/C2-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/29/responsive/C2-md.webp 768w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Wallet</title>
         <author>
             <name>Jannis Treffler</name>
@@ -101,7 +120,7 @@
         </content>
     </entry>
     <entry>
-        <title>Wach</title>
+        <title>Watch</title>
         <author>
             <name>Jannis Treffler</name>
         </author>
@@ -180,29 +199,6 @@
 <figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-2.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-2-thumbnail.webp" alt="" width="768" height="405"></a></figure>
 <figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-1.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-1-thumbnail.webp" alt="" width="768" height="405"></a></figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Earth from space</title>
-        <author>
-            <name>Jannis Treffler</name>
-        </author>
-        <link href="https://jannis.treffler.cloud/nasa-project/"/>
-        <id>https://jannis.treffler.cloud/nasa-project/</id>
-        <media:content url="https://jannis.treffler.cloud/media/posts/19/untitled.png" medium="image" />
-
-        <updated>2023-04-10T11:37:29+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://jannis.treffler.cloud/media/posts/19/untitled.png" alt="" />
-                    More information coming soon
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://jannis.treffler.cloud/media/posts/19/untitled.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image post__image--wide"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/19/Nasa-Erth.png" alt="" width="4096" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/19/responsive/Nasa-Erth-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/19/responsive/Nasa-Erth-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/19/responsive/Nasa-Erth-md.webp 768w"></figure>More information coming soon</p>
             ]]>
         </content>
     </entry>

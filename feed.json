@@ -66,6 +66,20 @@
             "date_modified": "2024-07-27T16:23:01+02:00"
         },
         {
+            "id": "https://jannis.treffler.cloud/t-shert/",
+            "url": "https://jannis.treffler.cloud/t-shert/",
+            "title": "T-shert",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/29/C1.png\" alt=\"\" width=\"2160\" height=\"4096\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/29/responsive/C1-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/29/responsive/C1-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/29/responsive/C1-md.webp 768w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/29/C2.png\" alt=\"\" width=\"2160\" height=\"4096\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/29/responsive/C2-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/29/responsive/C2-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/29/responsive/C2-md.webp 768w\"></figure>",
+            "image": "https://jannis.treffler.cloud/media/posts/29/C3.png",
+            "author": {
+                "name": "Jannis Treffler"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-04T16:25:00+02:00",
+            "date_modified": "2024-07-27T16:27:15+02:00"
+        },
+        {
             "id": "https://jannis.treffler.cloud/wallet/",
             "url": "https://jannis.treffler.cloud/wallet/",
             "title": "Wallet",
@@ -82,7 +96,7 @@
         {
             "id": "https://jannis.treffler.cloud/wach/",
             "url": "https://jannis.treffler.cloud/wach/",
-            "title": "Wach",
+            "title": "Watch",
             "content_html": "<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/27/c2.png\" alt=\"\" width=\"4096\" height=\"2160\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/27/responsive/c2-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/27/responsive/c2-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/27/responsive/c2-md.webp 768w\"></figure>\n<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/27/C3.png\" alt=\"\" width=\"4096\" height=\"2160\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/27/responsive/C3-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/27/responsive/C3-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/27/responsive/C3-md.webp 768w\"></figure>\n<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/27/C4.png\" alt=\"\" width=\"4096\" height=\"2160\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/27/responsive/C4-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/27/responsive/C4-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/27/responsive/C4-md.webp 768w\"></figure>\n<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/27/C5.png\" alt=\"\" width=\"4096\" height=\"2160\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/27/responsive/C5-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/27/responsive/C5-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/27/responsive/C5-md.webp 768w\"></figure>\n<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/27/C6.png\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/27/responsive/C6-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/27/responsive/C6-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/27/responsive/C6-md.webp 768w\"></figure>",
             "image": "https://jannis.treffler.cloud/media/posts/27/c1.png",
             "author": {
@@ -91,7 +105,7 @@
             "tags": [
             ],
             "date_published": "2023-08-18T16:08:00+02:00",
-            "date_modified": "2024-07-27T16:08:57+02:00"
+            "date_modified": "2024-07-27T16:25:55+02:00"
         },
         {
             "id": "https://jannis.treffler.cloud/game-boy/",
@@ -134,21 +148,6 @@
             ],
             "date_published": "2023-07-15T11:33:11+02:00",
             "date_modified": "2023-08-05T15:19:34+02:00"
-        },
-        {
-            "id": "https://jannis.treffler.cloud/nasa-project/",
-            "url": "https://jannis.treffler.cloud/nasa-project/",
-            "title": "Earth from space",
-            "summary": "More information coming soon",
-            "content_html": "<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/19/Nasa-Erth.png\" alt=\"\" width=\"4096\" height=\"2160\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/19/responsive/Nasa-Erth-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/19/responsive/Nasa-Erth-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/19/responsive/Nasa-Erth-md.webp 768w\"></figure>More information coming soon</p>",
-            "image": "https://jannis.treffler.cloud/media/posts/19/untitled.png",
-            "author": {
-                "name": "Jannis Treffler"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-04-10T11:37:29+02:00",
-            "date_modified": "2023-08-05T15:31:26+02:00"
         }
     ]
 }
