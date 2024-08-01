@@ -3,12 +3,30 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2024-07-27T16:46:00+02:00</updated>
+    <updated>2024-08-02T00:02:54+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
     <id>https://jannis.treffler.cloud</id>
 
+    <entry>
+        <title>The Blue Marble</title>
+        <author>
+            <name>Jannis Treffler</name>
+        </author>
+        <link href="https://jannis.treffler.cloud/the-blue-marble/"/>
+        <id>https://jannis.treffler.cloud/the-blue-marble/</id>
+        <media:content url="https://jannis.treffler.cloud/media/posts/30/P5-I-2.png" medium="image" />
+
+        <updated>2024-08-02T00:02:54+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jannis.treffler.cloud/media/posts/30/P5-I-2.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/30/P4-I-2.png" alt="" width="3840" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/30/responsive/P4-I-2-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/30/responsive/P4-I-2-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/30/responsive/P4-I-2-md.webp 768w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Black Hole</title>
         <author>
@@ -181,28 +199,6 @@
             <![CDATA[
                     <p><img src="https://jannis.treffler.cloud/media/posts/21/Final-space-station-film.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img  src="https://jannis.treffler.cloud/media/posts/21/Final-space-station-film-2-5.png" alt="" width="4096" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-film-2-5-md.webp 768w"></figure><figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/21/Final-space-station-3-film-1.png" alt="" width="4096" height="2160" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/21/responsive/Final-space-station-3-film-1-md.webp 768w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>My concept of a modern Camera ✨</title>
-        <author>
-            <name>Jannis Treffler</name>
-        </author>
-        <link href="https://jannis.treffler.cloud/my-concept-of-a-modern-camera/"/>
-        <id>https://jannis.treffler.cloud/my-concept-of-a-modern-camera/</id>
-        <media:content url="https://jannis.treffler.cloud/media/posts/20/Kamera-seane-1.png" medium="image" />
-
-        <updated>2023-07-15T11:33:11+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://jannis.treffler.cloud/media/posts/20/Kamera-seane-1.png" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-3.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-3-thumbnail.webp" alt="" width="768" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-2.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-2-thumbnail.webp" alt="" width="768" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-1.png" data-size="4096x2160"><img loading="lazy" src="https://jannis.treffler.cloud/media/posts/20/gallery/Kamera-seane-1-thumbnail.webp" alt="" width="768" height="405"></a></figure>
-</div></div>
             ]]>
         </content>
     </entry>
