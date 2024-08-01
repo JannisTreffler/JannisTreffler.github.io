@@ -13,7 +13,7 @@
         {
             "id": "https://jannis.treffler.cloud/the-blue-marble/",
             "url": "https://jannis.treffler.cloud/the-blue-marble/",
-            "title": "The Blue Marble",
+            "title": "Blue Marble",
             "content_html": "<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://jannis.treffler.cloud/media/posts/30/P4-I-2.png\" alt=\"\" width=\"3840\" height=\"2160\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://jannis.treffler.cloud/media/posts/30/responsive/P4-I-2-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/30/responsive/P4-I-2-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/30/responsive/P4-I-2-md.webp 768w\"></figure>",
             "image": "https://jannis.treffler.cloud/media/posts/30/P5-I-2.png",
             "author": {
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2024-08-02T00:02:54+02:00",
-            "date_modified": "2024-08-02T00:27:20+02:00"
+            "date_modified": "2024-08-02T00:29:07+02:00"
         },
         {
             "id": "https://jannis.treffler.cloud/black-hole/",
