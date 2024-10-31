@@ -3,7 +3,7 @@
     <title>Jannis Treffler Design</title>
     <link href="https://jannis.treffler.cloud/feed.xml" rel="self" />
     <link href="https://jannis.treffler.cloud" />
-    <updated>2024-09-29T15:40:03+02:00</updated>
+    <updated>2024-09-29T15:49:10+02:00</updated>
     <author>
         <name>Jannis Treffler</name>
     </author>
@@ -23,7 +23,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://jannis.treffler.cloud/media/posts/31/C1.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/31/C2.png" alt="" width="1080" height="1080" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/31/responsive/C2-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/31/responsive/C2-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/31/responsive/C2-md.webp 768w"></figure>
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://jannis.treffler.cloud/media/posts/31/C2.png" alt="" width="1080" height="1080" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://jannis.treffler.cloud/media/posts/31/responsive/C2-xs.webp 300w ,https://jannis.treffler.cloud/media/posts/31/responsive/C2-sm.webp 480w ,https://jannis.treffler.cloud/media/posts/31/responsive/C2-md.webp 768w"></figure>
             ]]>
         </content>
     </entry>
