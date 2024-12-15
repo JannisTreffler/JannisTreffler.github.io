@@ -1,36 +1,23 @@
 window.publiiSvgFix = {
-
+    "#comments": {
+        "viewbox": "0 0 14 14",
+        "content": "<path d=\"M12.68,14,9.26,12.81a6.67,6.67,0,0,1-2.57.52h0A6.68,6.68,0,0,1,0,6.66V6.28A6.67,6.67,0,0,1,6.34,0h.35a6.49,6.49,0,0,1,3,.71,6.68,6.68,0,0,1,3.16,8.55L14,12.68A1,1,0,0,1,13,14,1.19,1.19,0,0,1,12.68,14ZM6.67,2H6.39A4.63,4.63,0,0,0,2,6.33v.34H2a4.66,4.66,0,0,0,4.66,4.66h0a4.6,4.6,0,0,0,2.07-.49,1,1,0,0,1,.77-.05l1.9.63-.63-1.9a1,1,0,0,1,.05-.77,4.42,4.42,0,0,0,.49-2.08A4.66,4.66,0,0,0,6.68,2ZM0,6.67H0Z\" />"
+    },
     "#search": {
-        "viewbox": "0 0 24 24",
-        "content": "<circle cx=\"11\" cy=\"11\" r=\"8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><path d=\"M21 21l-4.3-4.3\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" />"
-    },
-    "#share": {
-        "viewbox": "0 0 24 24",
-        "content": "<path d=\"M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><polyline points=\"16 6 12 2 8 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><line x1=\"12\" y1=\"2\" x2=\"12\" y2=\"15\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" />"
-    },
-    "#arrow-prev": {
-        "viewbox": "0 0 24 24",
-        "content": "<path d=\"M6 8L2 12L6 16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><path d=\"M2 12H22\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" />"
-    },
-    "#arrow-next": {
-        "viewbox": "0 0 24 24",
-        "content": "<path d=\"M18 8L22 12L18 16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><path d=\"M2 12H22\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" />"
-    },
-    "#toparrow": {
-        "viewbox": "0 0 24 24",
-        "content": "<path d=\"M8 6L12 2L16 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><path d=\"M12 2V22\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" />"
+        "viewbox": "0 0 15 15",
+        "content": "<path d=\"M14.81,13.14l-3-3h0a6.52,6.52,0,1,0-1.67,1.67h0l3,3a1.06,1.06,0,0,0,1.43-.24A1.06,1.06,0,0,0,14.81,13.14ZM6.5,11A4.5,4.5,0,1,1,11,6.5,4.51,4.51,0,0,1,6.5,11Z\"/>"
     },
     "#website": {
         "viewbox": "0 0 24 24",
-        "content": "<path d=\"M21 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><path d=\"M21 3l-9 9\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><path d=\"M15 3h6v6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" />"
+        "content": "<path d=\"M12,2A10,10,0,1,1,2,12,10,10,0,0,1,12,2Zm3,13V9H9m.17,5.83,5.66-5.66\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
     },
     "#facebook": {
         "viewbox": "0 0 32 32",
-        "content": "<path d=\"M32,16.1A16,16,0,1,0,13.5,32V20.75H9.44V16.1H13.5V12.55c0-4,2.39-6.26,6-6.26a24.77,24.77,0,0,1,3.58.31v4h-2a2.33,2.33,0,0,0-2.61,2.52v3h4.44l-.71,4.65H18.5V32A16.07,16.07,0,0,0,32,16.1Z\" />"
+        "content": "<path d=\"M30.234 0H1.766A1.766 1.766 0 0 0 0 1.766v28.468A1.766 1.766 0 0 0 1.766 32h15.326V19.608h-4.17v-4.83h4.17v-3.56c0-4.134 2.524-6.385 6.21-6.385a34.216 34.216 0 0 1 3.727.19v4.32h-2.557c-2.005 0-2.394.953-2.394 2.35v3.084h4.78l-.622 4.83h-4.16V32h8.154A1.766 1.766 0 0 0 32 30.234V1.766A1.766 1.766 0 0 0 30.234 0z\" />"
     },
     "#twitter": {
-        "viewbox": "0 0 24 24",
-        "content": "<path d=\"m14.093,10.315L22.283,1h-1.941l-7.111,8.089L7.551,1H1l8.589,12.231L1,23h1.941l7.51-8.542,5.998,8.542h6.551l-8.907-12.685h0Zm-2.658,3.024l-.87-1.218L3.64,2.43h2.981l5.588,7.821.87,1.218,7.264,10.166h-2.981l-5.927-8.296h0Z\" />"
+        "viewbox": "0 0 24.999 20.316",
+        "content": "<path d=\"M25 2.405a10.253 10.253 0 0 1-2.947.808A5.144 5.144 0 0 0 24.308.376 10.27 10.27 0 0 1 21.05 1.62a5.134 5.134 0 0 0-8.74 4.68A14.56 14.56 0 0 1 1.74.94a5.134 5.134 0 0 0 1.587 6.846 5.108 5.108 0 0 1-2.323-.642v.064a5.132 5.132 0 0 0 4.114 5.03 5.142 5.142 0 0 1-2.316.088 5.134 5.134 0 0 0 4.79 3.562 10.29 10.29 0 0 1-6.37 2.2A10.44 10.44 0 0 1 0 18.012a14.586 14.586 0 0 0 22.454-12.29q0-.333-.015-.662A10.423 10.423 0 0 0 25 2.405z\" />"
     },
     "#instagram": {
         "viewbox": "0 0 32 32",
@@ -54,7 +41,7 @@ window.publiiSvgFix = {
     },
     "#mix": {
         "viewbox": "0 0 32 32",
-        "content": "<path  d=\"M6.4,11.44v17.45C6.4,30.58,4.97,32,3.2,32S0,30.58,0,28.88V17.42C3.42,17.45,6.22,14.79,6.4,11.44z\"/><path  d=\"M31.75,0C24.8,0,19.17,5.6,19.2,12.46v8.48c-0.03,1.69-1.46,3.12-3.2,3.12c-1.79,0-3.22-1.42-3.2-3.12V8.48c-0.02-1.78-1.45-3.2-3.2-3.24C7.9,5.27,6.52,6.57,6.4,8.23c-0.01,0.06-0.01,0.14,0,0.25v2.99c-0.19,3.31-2.98,5.97-6.4,5.98V0H31.75z\"/><path d=\"M32,0v17.95c0,1.69-1.43,3.12-3.2,3.12c-1.77,0-3.2-1.42-3.2-3.12v-1.62c0-1.81-1.43-3.23-3.2-3.24c-1.77,0.01-3.2,1.43-3.2,3.24v-3.99C19.2,6.07,23.9,0.86,29.98,0H32z\"/>"
+        "content": "<path d=\"M32,0v17.95c0,1.69-1.43,3.12-3.2,3.12c-1.77,0-3.2-1.42-3.2-3.12v-1.62c0-1.81-1.43-3.23-3.2-3.24c-1.77,0.01-3.2,1.43-3.2,3.24v4.61c-0.03,1.69-1.46,3.12-3.2,3.12c-1.79,0-3.22-1.42-3.2-3.12V8.48c-0.02-1.78-1.45-3.2-3.2-3.24C7.9,5.27,6.52,6.57,6.4,8.23c-0.01,0.06-0.01,0.14,0,0.25v2.96v0.03v17.42C6.4,30.58,4.97,32,3.2,32C1.43,32,0,30.58,0,28.88V17.45v-0.03V0h29.98h1.77H32z\" />"
     },
     "#buffer": {
         "viewbox": "0 0 32 32",
