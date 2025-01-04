@@ -14,7 +14,7 @@
             "id": "https://jannis.treffler.cloud/op-xy/",
             "url": "https://jannis.treffler.cloud/op-xy/",
             "title": "OP–XY",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/34/gallery/F2.1-Instagram.png\" data-size=\"2000x2000\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/34/gallery/F2.1-Instagram-thumbnail.webp\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/34/gallery/F3.1-Instagram.png\" data-size=\"2000x2000\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/34/gallery/F3.1-Instagram-thumbnail.webp\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/34/gallery/F4.1-Instagram.png\" data-size=\"2000x2000\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/34/gallery/F4.1-Instagram-thumbnail.webp\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/34/gallery/F2.1-Instagram.png\" data-size=\"2000x2000\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/34/gallery/F2.1-Instagram-thumbnail.webp\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/34/gallery/F3.1-Instagram.png\" data-size=\"2000x2000\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/34/gallery/F3.1-Instagram-thumbnail.webp\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jannis.treffler.cloud/media/posts/34/gallery/F4.1-Instagram.png\" data-size=\"2000x2000\"><img loading=\"lazy\" src=\"https://jannis.treffler.cloud/media/posts/34/gallery/F4.1-Instagram-thumbnail.webp\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>",
             "image": "https://jannis.treffler.cloud/media/posts/34/F1.1-Instagram.png",
             "author": {
                 "name": "Jannis Treffler"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2025-01-04T18:16:48+01:00",
-            "date_modified": "2025-01-04T18:16:48+01:00"
+            "date_modified": "2025-01-04T19:06:09+01:00"
         },
         {
             "id": "https://jannis.treffler.cloud/wallpaper-pack-2024/",
